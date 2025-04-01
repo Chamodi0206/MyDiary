@@ -65,12 +65,6 @@ The app follows a **Model-View-Controller (MVC)** architecture. Here's an overvi
 
 ---
 
-## Screenshots
-
-(Insert screenshots of the app interface here if available)
-
----
-
 ## How to Run the App
 
 1. **Clone or Download the Repository:**
